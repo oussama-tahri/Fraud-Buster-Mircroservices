@@ -1,0 +1,6 @@
+com\tahrioussama\fraud\web\FraudCheckController.class
+com\tahrioussama\fraud\services\FraudCheckService.class
+com\tahrioussama\fraud\FraudApplication.class
+com\tahrioussama\fraud\entities\FraudCheckHistory$FraudCheckHistoryBuilder.class
+com\tahrioussama\fraud\entities\FraudCheckHistory.class
+com\tahrioussama\fraud\repositories\FraudRepository.class

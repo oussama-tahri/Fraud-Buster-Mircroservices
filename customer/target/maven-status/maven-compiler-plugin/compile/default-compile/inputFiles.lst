@@ -1,0 +1,7 @@
+D:\SpringProjects\FraudBuster-microservices\customer\src\main\java\com\tahrioussama\customer\CustomerApplication.java
+D:\SpringProjects\FraudBuster-microservices\customer\src\main\java\com\tahrioussama\customer\web\CustomerController.java
+D:\SpringProjects\FraudBuster-microservices\customer\src\main\java\com\tahrioussama\customer\config\CustomerConfig.java
+D:\SpringProjects\FraudBuster-microservices\customer\src\main\java\com\tahrioussama\customer\entities\Customer.java
+D:\SpringProjects\FraudBuster-microservices\customer\src\main\java\com\tahrioussama\customer\records\CustomerRegistryRequest.java
+D:\SpringProjects\FraudBuster-microservices\customer\src\main\java\com\tahrioussama\customer\repositories\CustomerRepository.java
+D:\SpringProjects\FraudBuster-microservices\customer\src\main\java\com\tahrioussama\customer\services\CustomerService.java

@@ -1,0 +1,8 @@
+com\tahrioussama\notification\config\NotificationConfig.class
+com\tahrioussama\notification\web\NotificationController.class
+com\tahrioussama\notification\entities\Notification$NotificationBuilder.class
+com\tahrioussama\notification\services\NotificationService.class
+com\tahrioussama\notification\repositories\NotificationRepository.class
+com\tahrioussama\notification\entities\Notification.class
+com\tahrioussama\notification\NotificationApplication.class
+com\tahrioussama\notification\rabbitmq\NotificationConsumer.class

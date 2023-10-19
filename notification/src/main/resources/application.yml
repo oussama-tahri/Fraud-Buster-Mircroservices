@@ -1,0 +1,42 @@
+server:
+  port: 8083
+spring:
+  application:
+    name: notification
+  datasource:
+    username: 'oussama'
+    url: jdbc:postgresql://localhost:5432/notification
+    password: 'admin'
+  #    driver-class-name: org.postgresql.Driver
+  jpa:
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+        format_sql: 'true'
+    hibernate:
+      ddl-auto: create-drop
+    show-sql: true
+  zipkin:
+    base-url: http://localhost:9411
+  rabbitmq:
+    addresses: localhost:5672
+#  cloud:
+#    discovery:
+#      enabled: true
+#  zipkin:
+#    base-url: http://zipkin:9411
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+    fetch-registry: true
+    register-with-eureka: true
+    enabled: false
+rabbitmq:
+  exchanges:
+    internal: internal.exchange
+  queues:
+    notification: notification.queue
+  routing-keys:
+    internal-notification: internal.notification.routing-key

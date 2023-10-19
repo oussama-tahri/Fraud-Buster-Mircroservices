@@ -1,0 +1,8 @@
+com\tahrioussama\customer\services\CustomerService.class
+com\tahrioussama\customer\records\CustomerRegistryRequest.class
+com\tahrioussama\customer\web\CustomerController.class
+com\tahrioussama\customer\config\CustomerConfig.class
+com\tahrioussama\customer\repositories\CustomerRepository.class
+com\tahrioussama\customer\entities\Customer.class
+com\tahrioussama\customer\entities\Customer$CustomerBuilder.class
+com\tahrioussama\customer\CustomerApplication.class

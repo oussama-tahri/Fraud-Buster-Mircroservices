@@ -1,0 +1,7 @@
+D:\SpringProjects\FraudBuster-microservices\notification\src\main\java\com\tahrioussama\notification\NotificationApplication.java
+D:\SpringProjects\FraudBuster-microservices\notification\src\main\java\com\tahrioussama\notification\repositories\NotificationRepository.java
+D:\SpringProjects\FraudBuster-microservices\notification\src\main\java\com\tahrioussama\notification\config\NotificationConfig.java
+D:\SpringProjects\FraudBuster-microservices\notification\src\main\java\com\tahrioussama\notification\services\NotificationService.java
+D:\SpringProjects\FraudBuster-microservices\notification\src\main\java\com\tahrioussama\notification\entities\Notification.java
+D:\SpringProjects\FraudBuster-microservices\notification\src\main\java\com\tahrioussama\notification\rabbitmq\NotificationConsumer.java
+D:\SpringProjects\FraudBuster-microservices\notification\src\main\java\com\tahrioussama\notification\web\NotificationController.java

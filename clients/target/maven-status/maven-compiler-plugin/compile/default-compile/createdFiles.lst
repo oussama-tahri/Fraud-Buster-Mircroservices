@@ -1,0 +1,4 @@
+com\tahrioussama\notification\NotificationRequest.class
+com\tahrioussama\notification\NotificationClient.class
+com\tahrioussama\fraud\FraudCheckResponse.class
+com\tahrioussama\fraud\FraudClient.class
